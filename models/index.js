@@ -7,7 +7,7 @@ User.hasMany(Post, {
 });
 Post.belongsTo(User, {
   foreignKey: 'user_id',
-  // cascade adds ON DELETE CASCADE rule to your database which specifies that the child data gets deleted when the parent data is deleted.
+  // ondelete cascade  specifies whether you want rows deleted in a child table when corresponding rows are deleted in the parent table.
   onDelete: "cascade"
 });
 
