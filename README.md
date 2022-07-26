@@ -43,7 +43,8 @@
     
   ## [Screenshot](#screenshot)
 
-  
+  ![tech_blog](https://user-images.githubusercontent.com/103549017/180912339-4069460a-f93e-426f-8115-cb7b9cf34576.png)
+
 
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
