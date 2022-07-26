@@ -5,23 +5,28 @@
     
   ## Table-of-Contents
   * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  
+  * [Technologies Used](#tech)
+  * [Deployed](#deployed)
   * [License](#license)
-    
   * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Screenshot](#screenshot)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
 
-  ## [Installation](#table-of-contents)
+ This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' posts as well. It follows the MVC paradigm in its aritechtural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentification. 
 
+  ## [Technologies Used](#tech)
+  • express-handlebars
+  • MySQL2
+  • Sequelize 
+  • dotenv
+  • bcrypt
+  • express-session
+  • connect-session-sequelize
   
+  ## [Deployed](#deployed)
 
-  
-  ## [Usage](#table-of-contents)
  
 
   
@@ -36,7 +41,9 @@
   
   I will not accept contribution from third-parties at this time. Thank you.
     
-  ## [Tests](#table-of-contents)
+  ## [Screenshot](#screenshot)
+
+  
 
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
