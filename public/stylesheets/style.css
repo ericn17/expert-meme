@@ -107,7 +107,7 @@
                   
                   .hero {
                       padding: 3% 4%;
-                      background-color: aqua;
+                      background-color: rgb(41, 145, 186);
                       color: var(--primary);
                   }
                   
@@ -167,7 +167,7 @@
                   
                   .card-header {
                       color: var(--primary);
-                      background-color: aqua;
+                      background-color: rgb(41, 145, 186);
                       padding: 1%;
                       border-radius: calc(.18rem - 1px) calc(.18rem - 1px) 0 0;
                   }
